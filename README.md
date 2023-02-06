@@ -1,10 +1,11 @@
 # News App for iOS and Android
 
-- built using Expo Go and React-Native
+- practice using Expo, Expo Go & React-Native framework
+
+- fetch from newsapi.org
 
 - currently only tested on iOS
 
-- practice using Expo, Expo Go & React-Native framework
 
 <br>
 
